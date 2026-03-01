@@ -3,13 +3,11 @@
 ## 🤖 Android / Samsung
 You have two ways to get started on Android:
 
-Official Store: Sign up for the Closed Testing program via Google Play.
+Use this link to sign up for testing and then download the app from google play.
+[Sign Up for Testing](https://play.google.com/store/apps/details?id=com.procrastinatorsinc.swem_appointments)
 
-[Store Link](https://play.google.com/apps/testing/com.procrastinatorsinc.swem_appointments )
+After signing up you can search on the playstore for: "Awesome Kids Aquatics" 
 
-Manual Install: Download and install the provided APK file directly.
-
-[Manual Install Link](https://drive.google.com/file/d/1jwUyFb8vkmgdkzTCaD4FOpxrC9rLbt9H/view?usp=sharing) 
 
 ## 🔴 Huawei
 The app is available directly through the Huawei AppGallery:
@@ -17,9 +15,5 @@ The app is available directly through the Huawei AppGallery:
 [Download from AppGallery](https://appgallery.huawei.com/#/app/C116689115)
 
 ## 🍏 iOS / iPhone
-For Apple devices, please use our optimized Web App version:
+For Apple devices you need to install testflight and provide your email to be invited to the testing group.
 
-[LINK](awesomekidzaquatics.azurewebsites.net )
-
-### Pro Tip: 
-For the best experience, once the page loads, tap the Share icon and select "Add to Home Screen". This allows you to launch the app just like a native installation.
